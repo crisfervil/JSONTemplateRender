@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JSONTemplateRender": {
+      "commandName": "Executable",
+      "executablePath": "cmd"
+    }
+  }
+}
