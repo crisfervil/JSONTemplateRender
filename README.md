@@ -3,6 +3,8 @@ Tool to render Liquid templates through command line
 
 ![.NET Core](https://github.com/crisfervil/JSONTemplateRender/workflows/.NET%20Core/badge.svg)
 
+[MIT License](LICENSE) 
+
 # Usage
 
 ```console
